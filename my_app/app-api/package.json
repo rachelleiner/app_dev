@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/server.js",
   "scripts": {
-    "devStart": "nodemon server.js",
+    "start": "nodemon server.js",
     "test": " jest"
   },
   "keywords": [],
